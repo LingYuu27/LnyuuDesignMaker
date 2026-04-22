@@ -6,7 +6,7 @@
 
 ## 系统定位
 
-Harness v4 是一个**自主迭代的 Agent 协作平台**，通过 L1-L5 分层记忆体系与 STAR 技能引擎，解决长周期设计任务中的信息熵增问题。
+Agent Harness 「凌酱之脑」是一个**自主迭代的 Agent 协作平台**，通过 L1-L5 分层记忆体系与 STAR 技能引擎，解决长周期设计任务中的信息熵增问题。
 
 核心原则：
 1. **熵减优先 (Entropy Reduction)** - 不写新文件，优先更新现有结构
@@ -15,7 +15,7 @@ Harness v4 是一个**自主迭代的 Agent 协作平台**，通过 L1-L5 分层
 
 ---
 
-## 核心架构 (v4 - Decoupled)
+## 核心架构 (Decoupled)
 
 - **Cognitive Engine (凌酱之脑)**: 
     - [L1-L5 记忆体系](./RULES.md#1-记忆层级)

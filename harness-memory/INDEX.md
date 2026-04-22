@@ -8,7 +8,7 @@
 
 | 项目 | 关键文档 | 状态 | 最后更新 |
 |------|----------|------|----------|
-| Agent Harness v4 | [AGENT_HARNESS_V4_ARCH.md](../AGENT_HARNESS_V4_ARCH.md) | 设计完成 | 2026-04-22 |
+| Agent Harness 「凌酱之脑」 | [AGENT_HARNESS_V4_ARCH.md](../AGENT_HARNESS_V4_ARCH.md) | 设计完成 | 2026-04-22 |
 | Harness 记忆系统核心 | [HARNESS.md](./HARNESS.md) | 活跃 | 2026-04-22 |
 
 ---

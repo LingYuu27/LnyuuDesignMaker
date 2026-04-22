@@ -1,10 +1,10 @@
-# LnyuuDesignMaker - Agent Harness v4
+# Agent Harness 「凌酱之脑」
 
-> **从“工具”进化为“数字孪生合伙人”。**
+> **本文档定义一套平台无关、项目无关的 Agent 自主协作规范。任何人拿到这份文档 + 一个 LLM，就能在 30 分钟内启动一个具备记忆、反思、技能调度能力的个人设计助手。**
 
 ## 核心价值总结
 
-**Agent Harness v4** 是一款将**认知大脑 (Brain)** 与 **执行身体 (Body)** 深度解耦的自迭代智能体框架。
+**Agent Harness 「凌酱之脑」** 是一款将**认知大脑 (Brain)** 与 **执行身体 (Body)** 深度解耦的自迭代智能体框架。
 
 其核心价值在于：
 1. **五层记忆体系 (L1-L5)**：通过结构化的记忆检索与持久化，彻底解决长周期协作中的信息熵增与上下文遗忘问题。
@@ -50,7 +50,7 @@ graph LR
 ## 快速导航
 
 - **架构总纲**: [AGENTS.md](./AGENTS.md)
-- **产品设计说明书**: [AGENT_HARNESS_V4_ARCH.md](./AGENT_HARNESS_V4_ARCH.md)
+- **产品设计说明书**: [AGENT_HARNESS_ARCH.md](./AGENT_HARNESS_V4_ARCH.md)
 - **构建规则**: [BUILD_RULES.md](./BUILD_RULES.md)
 - **记忆系统**: [harness-memory/](./harness-memory/)
 - **脱敏记忆库**: [memory/](./memory/)
