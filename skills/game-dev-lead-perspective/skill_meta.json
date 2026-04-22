@@ -1,0 +1,10 @@
+{
+  "id": "",
+  "name": "game-dev-lead-perspective",
+  "category": "planning",
+  "description": "提供组长维度的游戏设计评审与指导逻辑",
+  "version": "1.0.0",
+  "dependencies": {
+    "body_capabilities": ["read", "write"]
+  }
+}

@@ -1,0 +1,14 @@
+.cowork-temp/
+__pycache__/
+*.pyc
+.DS_Store
+.trae/
+.vscode/
+BOOTSTRAP.md
+*.zip
+*.docx
+*.pdf
+*.pptx
+*.xlsx
+*.csv
+memory/heartbeat-state.json

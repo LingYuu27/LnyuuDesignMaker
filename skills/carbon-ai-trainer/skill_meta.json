@@ -1,0 +1,10 @@
+{
+  "id": "",
+  "name": "carbon-ai-trainer",
+  "category": "cognition",
+  "description": "碳基AI训练与高答商回复策略引擎",
+  "version": "1.0.0",
+  "dependencies": {
+    "body_capabilities": []
+  }
+}

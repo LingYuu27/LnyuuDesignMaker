@@ -1,0 +1,10 @@
+{
+  "id": "",
+  "name": "gao-da-shang",
+  "category": "cognition",
+  "description": "高答商话术优化与专业感提升系统",
+  "version": "1.0.0",
+  "dependencies": {
+    "body_capabilities": []
+  }
+}

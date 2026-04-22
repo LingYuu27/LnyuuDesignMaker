@@ -1,0 +1,10 @@
+{
+  "id": "",
+  "name": "project-archive-switch",
+  "category": "management",
+  "description": "跨项目记忆上下文快速切换与归档逻辑",
+  "version": "1.0.0",
+  "dependencies": {
+    "body_capabilities": ["move", "delete", "read", "write"]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "",
+  "name": "linear-game-design-task-flow",
+  "category": "planning",
+  "description": "线性拆环设计规范与落地执行流",
+  "version": "1.0.0",
+  "dependencies": {
+    "body_capabilities": ["read", "write", "grep"]
+  }
+}
